@@ -18,7 +18,7 @@ This dashboard visualizes sales data from 2014 to 2019, offering deep insights i
   2. Total Profit
   3. Quantity Sold
   4. Number of Orders  5.
-  5. Profit Margin  
+  5. Profit Margin
 (B) **Visual Representations**:  
   1. **Category-Wise Sales**: Performance across product categories (Furniture, Technology, Office Supplies).  
   2. **Ship Mode Analysis**: Standard Class, Second Class, First Class, and Same Day delivery.  
